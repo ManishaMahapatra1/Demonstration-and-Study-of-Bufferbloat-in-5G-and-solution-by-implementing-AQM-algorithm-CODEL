@@ -1,5 +1,5 @@
-Code Files:	
-	** The required code files are present in the Codes folder in the zipped folder **	
+Code Files: 	
+	** The required code files(NS3) are present in the Codes folder in the zipped folder **	
 	
 	Phase 1:
 		1) The project_task1.cc file must be present in the scratch folder to be run.
